@@ -4,7 +4,7 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/paka-sravan-kumar-yadav-69097a158/)
  
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SravanKumar35/count.svg)
 
 - My Github Stats:
 
